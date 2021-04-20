@@ -1,0 +1,29 @@
+.container{
+    margin: 0 5rem;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    border: solid orangered 1px;
+}
+header{
+    border: solid green 3px;
+
+}
+
+nav ul{
+    border: solid pink 3px;
+
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+}
+
+main{
+    border: solid blueviolet 3px;
+
+}
+
+footer{
+    border: solid yellow 3px;
+    display: flex;
+    justify-content: space-around;
+}
