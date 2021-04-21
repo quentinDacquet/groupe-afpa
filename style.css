@@ -36,7 +36,7 @@ main section:last-child {
 
 footer {
   width: 80%;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 30px auto;
   display: flex;
   justify-content: space-around;
   padding: 0 20px 0 20px;
